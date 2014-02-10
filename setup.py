@@ -26,6 +26,7 @@ setup(
         'polib',
         'simplejson',
         'argparse',
+        'argh',
         'pytest >= 2.0', # XXX test require
     ],
     entry_points= {
